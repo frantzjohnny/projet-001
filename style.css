@@ -18,9 +18,9 @@ body {
   padding: 24px;
   background-color: #f0e8c2;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
-28px img {
+img {
   border-radius: 16px;
 }
 main {
